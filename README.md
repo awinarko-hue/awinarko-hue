@@ -26,10 +26,6 @@
 | 📡 **SIMS Entity Resolution** | Sistem pencocokan laporan monitoring dengan data lisensi ISR menggunakan verifikasi frekuensi & spasial (haversine) |
 | 🖥️ **Auto-Identification Monitoring SFR** | Web otomasi identifikasi hasil monitoring SFR untuk Big Data RF Monitor |
 
-### 📊 GitHub Stats
-
-![GitHub Stats]((https://drive.google.com/file/d/1JKO1TB9gvl53h5uVqAs7pz79lMFXMcpt/view?usp=sharing))
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
 
 ### 📫 Kontak
 
