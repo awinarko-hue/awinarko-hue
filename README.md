@@ -34,8 +34,8 @@
 
 ### 📫 Kontak
 
-- LinkedIn: [tautan LinkedIn kamu]
-- Email: [email profesional kamu]
+- LinkedIn: linkedin.com/in/agus-winarko-971b24319
+- Email: agus.winarko@komdigi.go.id
 
 ---
 <sub>⚡ Fokus saat ini: penelitian tesis Graph-RAG untuk aplikasi regulasi telekomunikasi Indonesia</sub>
