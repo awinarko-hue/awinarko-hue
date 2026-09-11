@@ -1,6 +1,6 @@
 ## Hi Halo, saya AgusW 👋
 
-🛰️ **Spectrum Monitoring Officer** di Balmon Yogyakarta (SDPPI/Komdigi)
+🛰️ **Spectrum Monitoring Officer** di Balmon Yogyakarta (DJID/Komdigi)
 
 ---
 
