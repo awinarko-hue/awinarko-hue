@@ -28,7 +28,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default)
+![GitHub Stats]((https://drive.google.com/file/d/1JKO1TB9gvl53h5uVqAs7pz79lMFXMcpt/view?usp=sharing))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
 
 ### 📫 Kontak
